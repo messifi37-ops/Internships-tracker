@@ -1,0 +1,41 @@
+name: 🔍 Job Tracker
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Toutes les heures pile
+  workflow_dispatch:       # Lancement manuel depuis GitHub (pratique pour tester)
+
+jobs:
+  check-jobs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Nécessaire pour pusher known_jobs.json
+
+    steps:
+      - name: 📥 Checkout du repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Installation des dépendances
+        run: pip install -r requirements.txt
+
+      - name: 🔍 Lancement du tracker
+        env:
+          RESEND_API_KEY:      ${{ secrets.RESEND_API_KEY }}
+          NOTIFICATION_EMAIL:  ${{ secrets.NOTIFICATION_EMAIL }}
+        run: python main.py
+
+      - name: 💾 Commit et push de known_jobs.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add known_jobs.json
+          # Ne commit que si le fichier a changé
+          git diff --staged --quiet || git commit -m "chore: update known_jobs [skip ci]"
+          git push
