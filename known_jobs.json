@@ -2,37 +2,37 @@
   "BAML": {
     "platform": "generic",
     "hash": "e1da96399522fa004864efb0cab7c53592a76fef7810387a4881210c133b89a7",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Barclays": {
     "platform": "generic",
-    "hash": "7948e3a5e7018263f8d0e7d0b953dbf3a922435615ed330380a14866375639ed",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "hash": "a761e11f070775fef0c2dd3d67422381c2a4069d68e1defa81635721076ab54f",
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "CA-CIB": {
     "platform": "generic",
-    "hash": "d86f90cf2082e2444e808d9ae652cae31ad58799a0b839a3ef7a66940ac15dc8",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "hash": "372744480b3ef964a95c57e510568bec43929ec3ed2e042ce21b3a82186f848b",
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "UBS": {
     "platform": "generic",
     "hash": "ec736be7fe12cbb9846a9e6f563887af38d09580a9c5166070086a47517c0804",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Citi": {
     "platform": "generic",
-    "hash": "9bed80b5cf896b4f83e170aef983ea0d24101aaca3158446eb846e824cbac9b8",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "hash": "8f424792cdcdaa66b0c5d5aff9cd2d551f42190470c850bc89cbd95953b290ca",
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Deutsche Bank": {
     "platform": "generic",
     "hash": "d27b4927dcfa8924dbc4dc2324076bbb8f12f08c499755944c68aceb363016e1",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Goldman Sachs": {
     "platform": "generic",
     "hash": "5a87afc2c08691827024dc77a5b968c24b244a703181d694ca78f26573d03b50",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Messier & Associés": {
     "platform": "generic",
@@ -42,47 +42,47 @@
   "JP Morgan": {
     "platform": "generic",
     "hash": "5335d7edfd6c773ea0a82a0c32dae8506fec100e0245cb9c0907af03c47f45d6",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Lazard": {
     "platform": "generic",
     "hash": "0e26e32c38b4a76c97d6cbdedc7ecbf414c8ff367a5a56298fe62ad5b13de0f9",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Evercore": {
     "platform": "generic",
     "hash": "caa7a6bf3313537c0e26b2aa1fac8ba9edf7fcc7cddfdbbe12606520f2cfd519",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Morgan Stanley": {
     "platform": "generic",
     "hash": "09debd4082af7947cc62383f7b503e76c2ddbd22f155e3c8d9a69ba3ad338589",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Rothschild & Co": {
     "platform": "generic",
     "hash": "caa7a6bf3313537c0e26b2aa1fac8ba9edf7fcc7cddfdbbe12606520f2cfd519",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "CIBC": {
     "platform": "workday",
     "job_ids": [],
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Greenhill": {
     "platform": "generic",
     "hash": "b4125ee88e9e8ecfc2f1bc1bba237f490ad10edcf81d5af1ed8cd0280e043834",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "RBC": {
     "platform": "generic",
     "hash": "6f38c05899d6e5a7df230eb59362710ce263761f64b6ebbabe9cc870dcba8417",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Commerzbank": {
     "platform": "generic",
     "hash": "6ce527a3ed8ceda97248bd6a73fb20db1704b46626e26d70e3b40205daf79742",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "ABN AMRO": {
     "platform": "generic",
@@ -92,52 +92,54 @@
   "Arma Partners": {
     "platform": "generic",
     "hash": "43ae1fe88f13f0138430d23b832d2ac27e4e2be84b26ecff4fddb9295e791b01",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Macquarie": {
     "platform": "generic",
-    "hash": "70e37d08666b4a025928759b4d23b931458bec86aa8b26e866d8d659c211e59c",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "hash": "39bd9669624768c1da0fc1572c972a78ea3496059c03f23c0a91d959de315c05",
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "ING": {
     "platform": "generic",
-    "hash": "a26bd7e326447a0d9a4228bb6a52781338d3c300906bbdf6f4b9983fa53f6b85",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "hash": "d5bb650300dbdf4b526472f9d582aefe4571402f7a13602f2612101799ec3f18",
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Edmond de Rothschild": {
     "platform": "generic",
     "hash": "19e86e9db132e41eb126588f5c160ce2ca62bb9ddc753bbe807c6924d3a378bd",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "EY Advisory": {
     "platform": "generic",
     "hash": "9ae521b584d8d2111d5aa1aeea6bf052395672f0ed287ae0079643636bda56a1",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "GP Bullhound": {
     "platform": "generic",
     "hash": "a5607f307423b97bba55544a840d34d67b7cb03111e0796b21300bd51596a3da",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Bryan Garnier": {
     "platform": "generic",
     "hash": "b0d6b466219cbeca1ea715490cb206de223e0324c2de9c3cd4a149d030919088",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Oaklins": {
     "platform": "generic",
     "hash": "db8fded496983bad80e2ca08ef060a83dcd7cfa0725afc0a42bdf4958b6a7dbc",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Santander": {
     "platform": "workday",
-    "job_ids": [],
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "job_ids": [
+      "/job/Miami/Intern---Data-Steward_Req1611816"
+    ],
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Clipperton": {
     "platform": "generic",
     "hash": "6e1c1b54bdbb7b156d0bfb9ab5776ecae3a707c620d990c0f1af9c9e6c237e65",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   },
   "Clairfield": {
     "platform": "generic",
@@ -152,6 +154,6 @@
   "Alantra": {
     "platform": "generic",
     "hash": "78973fddcc10cd13a0d60cf1576219ca7054e5150fce0306c865238209f4e305",
-    "last_checked": "2026-09-30T13:25:39.428786"
+    "last_checked": "2026-09-30T18:54:36.431966"
   }
 }
