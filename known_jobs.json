@@ -1,38 +1,38 @@
 {
   "BAML": {
     "platform": "generic",
-    "hash": "731baa1773356b7c8073aeeffc9bba1d4d5c2a7e6a5ea34a4dc5b57a01636c46",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "hash": "6564a1e72ed2db3bd833ef3b74daffde8a39ac93ad2b88b18872d12de2f97468",
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Barclays": {
     "platform": "generic",
-    "hash": "15eb6897b7bc80d31d6322d389b48992bbf31c470d222f06f06a14d326469703",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "hash": "744ae563e4be680ad592ae63c90aa199fb44c5ae08b0873b04ea1b581f9aedc2",
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "CA-CIB": {
     "platform": "generic",
-    "hash": "13cea46384940bf10c0e2c1dc6aa8a4ff2e17526ee6c4ad10cfc218dbdcf8217",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "hash": "59e590470ff8205ec77ce877d43f04fa735f313e23e5a9a271a71a19d5d3d671",
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "UBS": {
     "platform": "generic",
     "hash": "ec736be7fe12cbb9846a9e6f563887af38d09580a9c5166070086a47517c0804",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Citi": {
     "platform": "generic",
-    "hash": "c630349627dece73207f100809b12ee2358585819231f416d9f9f31eadeb5096",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "hash": "732ceb09e80dbc6176053858ccd64712069b53055dc4f926276b2ea7706c029c",
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Deutsche Bank": {
     "platform": "generic",
     "hash": "d27b4927dcfa8924dbc4dc2324076bbb8f12f08c499755944c68aceb363016e1",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Goldman Sachs": {
     "platform": "generic",
     "hash": "5a87afc2c08691827024dc77a5b968c24b244a703181d694ca78f26573d03b50",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Messier & Associés": {
     "platform": "generic",
@@ -42,27 +42,27 @@
   "JP Morgan": {
     "platform": "generic",
     "hash": "5335d7edfd6c773ea0a82a0c32dae8506fec100e0245cb9c0907af03c47f45d6",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Lazard": {
     "platform": "generic",
     "hash": "0e26e32c38b4a76c97d6cbdedc7ecbf414c8ff367a5a56298fe62ad5b13de0f9",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Evercore": {
     "platform": "generic",
     "hash": "a6e626eab16086e0e97986e654092f69279ba29816b5a8046da8bb491233e8a4",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Morgan Stanley": {
     "platform": "generic",
     "hash": "6db937582cb4994d3eee8bee5aed5060ae1ee9c07f0ae27d25e05adf2b10a66b",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Rothschild & Co": {
     "platform": "generic",
-    "hash": "68a95b54873d73d12b2681f8e7627c3f02368504ee95c2be3e00ddfd02fb4ae5",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "hash": "2c82d7be94fb4e3b65c157fbac8ff6d04adc0a453b44cab4dff357feb457aee3",
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "CIBC": {
     "platform": "workday",
@@ -72,52 +72,52 @@
   "Greenhill": {
     "platform": "generic",
     "hash": "b4125ee88e9e8ecfc2f1bc1bba237f490ad10edcf81d5af1ed8cd0280e043834",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "RBC": {
     "platform": "generic",
     "hash": "6f38c05899d6e5a7df230eb59362710ce263761f64b6ebbabe9cc870dcba8417",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Commerzbank": {
     "platform": "generic",
     "hash": "6ce527a3ed8ceda97248bd6a73fb20db1704b46626e26d70e3b40205daf79742",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "ABN AMRO": {
     "platform": "generic",
     "hash": "d4b206130802c7065bddfb0c270add28f20a5d890dd3d1d7ea514b27f45c4e07",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Arma Partners": {
     "platform": "generic",
     "hash": "b7cd1b5049eb3b83fe040c74237d8c43e5f2d15788a72d40e7dd04cb0872d0a4",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Macquarie": {
     "platform": "generic",
-    "hash": "0e1b2c44f94cb6b625aa7903301634f54bffedb82ccc507ff700f84b6547bfd5",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "hash": "60a73031ae0379fc63a22a2fa66b9c64b228ced854e4bf9dfd74eb4106a59297",
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "ING": {
     "platform": "generic",
     "hash": "f313e2eb1fa7899bf27d80a6a5bb1391722fbe0e9db305c435ec5810962894a9",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Edmond de Rothschild": {
     "platform": "generic",
     "hash": "c5918c32ef9efcca568796aa2708d75d857da99c8281254af8fc6580f029e642",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "EY Advisory": {
     "platform": "generic",
     "hash": "9ae521b584d8d2111d5aa1aeea6bf052395672f0ed287ae0079643636bda56a1",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "GP Bullhound": {
     "platform": "generic",
     "hash": "a5607f307423b97bba55544a840d34d67b7cb03111e0796b21300bd51596a3da",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Bryan Garnier": {
     "platform": "generic",
@@ -127,7 +127,7 @@
   "Oaklins": {
     "platform": "generic",
     "hash": "655891adc5fbe1e3c907b55c16821774a79acbc4fdad6d1d4679345ff855639f",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Santander": {
     "platform": "workday",
@@ -137,7 +137,7 @@
   "Clipperton": {
     "platform": "generic",
     "hash": "5f13689ea820c4c0bc80fa2e96cf7363f0c47717548dd46738b2fc6693e5fd88",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Clairfield": {
     "platform": "generic",
@@ -152,11 +152,11 @@
   "Alantra": {
     "platform": "generic",
     "hash": "86a3bb5e5b5c8b583384e2c62abfc8d1289ebfeef684007bff962fc9210b4d23",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   },
   "Centerview Partners": {
     "platform": "generic",
     "hash": "cf97bc71ad01d3fab289017555b634a10dc000e3f97ec0cc21a95a639e51bc6a",
-    "last_checked": "2026-11-27T07:26:21.802398"
+    "last_checked": "2026-11-27T17:55:51.396404"
   }
 }
